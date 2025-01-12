@@ -4,6 +4,7 @@ The Blood Bank & Donor Management System is a web-based application developed us
 <img width="945" alt="Screenshot 2025-01-12 185544" src="https://github.com/user-attachments/assets/00e89b81-e253-43a2-b047-bf55b5fcef0c" />
 
 
+<img width="956" alt="Screenshot 2025-01-12 191938" src="https://github.com/user-attachments/assets/66a24b15-de37-4f6a-9c33-603d13b63735" />
 
 Features
 Donor Registration: Allows donors to register and manage their profiles.
@@ -41,6 +42,7 @@ Use the following credentials to log in as an admin:
 
 Username: admin
 Password: Test@123
+
 Troubleshooting
 Ensure that the web server and MySQL services are running in XAMPP/WAMP/LAMP.
 Verify that the bbdms database is correctly imported.
