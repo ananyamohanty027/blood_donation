@@ -1,6 +1,9 @@
 # Blood Bank & Donor Management System
 Overview
 The Blood Bank & Donor Management System is a web-based application developed using PHP and MySQL. It facilitates efficient management of blood donations and donor information for blood banks.
+<img width="945" alt="Screenshot 2025-01-12 185544" src="https://github.com/user-attachments/assets/00e89b81-e253-43a2-b047-bf55b5fcef0c" />
+
+
 
 Features
 Donor Registration: Allows donors to register and manage their profiles.
