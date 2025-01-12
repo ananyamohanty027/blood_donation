@@ -7,17 +7,18 @@ The Blood Bank & Donor Management System is a web-based application developed us
 <img width="956" alt="Screenshot 2025-01-12 191938" src="https://github.com/user-attachments/assets/66a24b15-de37-4f6a-9c33-603d13b63735" />
 
 Features
-Donor Registration: Allows donors to register and manage their profiles.
-Blood Request: Enables hospitals and individuals to request blood.
-Blood Inventory Management: Tracks available blood units by type.
-Admin Dashboard: Manages donors, requests, and blood inventory.
+-Donor Registration: Allows donors to register and manage their profiles.
+-Blood Request: Enables hospitals and individuals to request blood.
+-Blood Inventory Management: Tracks available blood units by type.
+-Admin Dashboard: Manages donors, requests, and blood inventory.
+
 Requirements
-XAMPP/WAMP/LAMP installed on your system.
-PHP 7.x or higher.
-MySQL 5.x or higher.
-Web browser (e.g., Chrome, Firefox).
-Installation
-Download the ZIP file:
+-XAMPP/WAMP/LAMP installed on your system.
+-PHP 7.x or higher.
+-MySQL 5.x or higher.
+-Web browser (e.g., Chrome, Firefox).
+-Installation
+-Download the ZIP file:
 
 Download the project package from the provided source.
 Extract the files:
@@ -40,8 +41,8 @@ Open your browser and navigate to http://localhost/bbdms to access the applicati
 Admin Credentials
 Use the following credentials to log in as an admin:
 
-Username: admin
-Password: Test@123
+-Username: admin
+-Password: Test@123
 
 Troubleshooting
 Ensure that the web server and MySQL services are running in XAMPP/WAMP/LAMP.
